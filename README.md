@@ -1,3 +1,3 @@
-# Curso GIT
+# Curso GIT alterado no GitHub
 
 Alterado no GIT
